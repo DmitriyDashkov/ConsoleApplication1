@@ -27,6 +27,7 @@ int main()
     cout << (a) << endl;
     cout << (a << 2) << endl;
     cout << (a >> 3) << endl;
+    cout << "branch";
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
